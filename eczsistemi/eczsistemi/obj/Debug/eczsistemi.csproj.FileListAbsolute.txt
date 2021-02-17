@@ -1,0 +1,15 @@
+C:\Users\Berka\source\repos\eczsistemi\eczsistemi\bin\Debug\eczsistemi.exe.config
+C:\Users\Berka\source\repos\eczsistemi\eczsistemi\bin\Debug\eczsistemi.exe
+C:\Users\Berka\source\repos\eczsistemi\eczsistemi\bin\Debug\eczsistemi.pdb
+C:\Users\Berka\source\repos\eczsistemi\eczsistemi\obj\Debug\eczsistemi.Properties.Resources.resources
+C:\Users\Berka\source\repos\eczsistemi\eczsistemi\obj\Debug\eczsistemi.csproj.GenerateResource.cache
+C:\Users\Berka\source\repos\eczsistemi\eczsistemi\obj\Debug\eczsistemi.csproj.CoreCompileInputs.cache
+C:\Users\Berka\source\repos\eczsistemi\eczsistemi\obj\Debug\eczsistemi.exe
+C:\Users\Berka\source\repos\eczsistemi\eczsistemi\obj\Debug\eczsistemi.pdb
+C:\Users\Berka\source\repos\eczsistemi\eczsistemi\obj\Debug\eczsistemi.FrmGirisler.resources
+C:\Users\Berka\source\repos\eczsistemi\eczsistemi\obj\Debug\eczsistemi.FrmKullaniciGiris.resources
+C:\Users\Berka\source\repos\eczsistemi\eczsistemi\obj\Debug\eczsistemi.ItsIlacVer.resources
+C:\Users\Berka\source\repos\eczsistemi\eczsistemi\obj\Debug\eczsistemi.SiparisBilgisiOlustur.resources
+C:\Users\Berka\source\repos\eczsistemi\eczsistemi\obj\Debug\eczsistemi.HastaKayit.resources
+C:\Users\Berka\source\repos\eczsistemi\eczsistemi\obj\Debug\eczsistemi.UcretIlacVer.resources
+C:\Users\Berka\source\repos\eczsistemi\eczsistemi\obj\Debug\eczsistemi.csproj.ResolveComReference.cache
